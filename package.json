@@ -1,0 +1,21 @@
+{
+  "name": "bf2c",
+  "version": "1.0.0",
+  "description": "Compile Brainfuck to C",
+  "bin": "./cli.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olahol/bf2c.git"
+  },
+  "keywords": [
+    "brainfuck",
+    "compiler"
+  ],
+  "author": "Ola Holmström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olahol/bf2c/issues"
+  },
+  "homepage": "https://github.com/olahol/bf2c#readme"
+}
